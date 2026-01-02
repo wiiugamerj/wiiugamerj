@@ -5,18 +5,22 @@
 
 **🌎 Languages:** Spanish, English, and Catalan.
 
-ℹ️ **Current projects:** I am currently programming Just Dance Fusion, a Just Dance fangame and ABBA Player, a minimalist music player for ABBA (not affiliated with ABBA). I also am doing some Behance projects about UI/UX, branding and photography.
+ℹ️ **Current projects:** I am currently focusing on graphic design with Affinity, making a zine that is not publicly available.
+
+**Personal projects I have previously worked on:**
+- I had been working on a Just Dance fan game on Godot for two years before cancelling it to focus on other projects
+- As a test to practice my skills on UI design and animations on Godot, I made a music player that downloaded music from a server
 
 💻 **Knowledge:**
-- GDScript
+- GDScript (mainly making UIs)
 - Figma UI/UX design
 - MacOS, Windows and Debian Linux
 - Unlocking phones' bootloader and _custom romming_
-- Nintendo and Play Station homebrew scene I have homebrewed various Nintendo and Sony consoles, graphic design and UI design on Figma... I basically like everything related to tech, opening PCs, hacking consoles, trying new OS and custom roms, designing UIs, videogames and lots of other things.
 
-💁 **A bit more about me:** Since I was little I have been interested in computing, which has led me to early learning about the basics of software and hardware, programming, etc. For more info and projects I've made, visit my portfolio.
+💁 **A bit more about me:** 
+Since I was a kid, I have been interested in computing, which has led me to early learning about the basics of software and hardware, programming, etc. For more info and projects I've made, visit my [portfolio](https://sites.google.com/view/wiiugamerj).
 
-❔ Need any help or something? You can contact me sending me a dm on Discord (@wiiugamerj), or sending me an email to wiiugamerj@gmail.com
+❔ Need any help or something? You can contact me sending me a DM on Discord (@wiiugamerj), or an [email](mailto:wiiugamerj@gmail.com).
 <!---
 WiiUGamerJ/WiiUGamerJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
