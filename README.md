@@ -1,8 +1,6 @@
 ## Hii! I'm WGJ (wiiugamerj).
 ### I am an amateur programmer and UI/UX designer. Doing Godot games/apps while designing in Affinity and Figma.
 
-🔗 **[Portfolio](https://sites.google.com/view/wiiugamerj)**
-
 **🌎 Languages:** Spanish, English, and Catalan.
 
 ℹ️ **Current projects:** I am currently focusing on graphic design with Affinity, making a personal zine.
